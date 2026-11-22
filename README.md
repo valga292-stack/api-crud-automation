@@ -1,5 +1,5 @@
 # API CRUD Automation (Pytest + Requests)
-
+![API CRUD Tests](https://github.com)
 Автоматизированный набор API-тестов на Python, проверяющий полный жизненный цикл сущности (CRUD: Create, Read, Update, Delete) на базе REST API (JSONPlaceholder).
 
 ## Стек технологий
