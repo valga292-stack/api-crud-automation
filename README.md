@@ -18,7 +18,7 @@
 
 1. Клонировать репозиторий и перейти в папку проекта:
   
-   git clone https://github.com<твой-логин>/api-crud-automation.git
+   git clone https://github.com/valga292-stack/api-crud-automation.git
    cd api-crud-automation
    
 2. Установить зависимости:
